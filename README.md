@@ -101,6 +101,7 @@ Ensure your website's foundation is strong for both search engines and user expe
 *   [SiteAnalyzer](https://site-analyzer.pro/) - Scan your websites for detailed information about each page.
 *   [Screpy](https://screpy.com/) - Simplify website metric tracking with Screpy.
 *   [Sitebulb](https://sitebulb.com/) - The go-to website auditing tool for SEO consultants and agencies.
+*   [WebsiteChecker.Tech](https://websitechecker.tech/) - Cloud technical SEO audits, performance checks, uptime monitoring, rank tracking, and exportable issue reports.
 *   [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyze individual page optimization with Moz's On-Page Grader.
 *   [BROWSEO](https://www.browseo.net) - View your site through the eyes of a search engine with BROWSEO.
 *   [linkok.com](https://linkok.com) - Modern broken link checker to maintain your site's health.
