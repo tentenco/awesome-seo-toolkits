@@ -8,6 +8,8 @@ This repository is your one-stop shop for discovering the best SEO (Search Engin
 
 Discover an array of incredible SEO (Search Engine Optimization) tools crafted to enhance your website's visibility and ranking on search engines.
 
+- [IndexFlow](https://indexflow.tech) - Automate Google Indexing API submissions to rank your programmatic SEO pages faster.
+
 ### Table of Contents
 
 1.  [All-in-One SEO Tools](#all-in-one-seo-tools)
