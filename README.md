@@ -104,6 +104,7 @@ Ensure your website's foundation is strong for both search engines and user expe
 *   [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Analyze individual page optimization with Moz's On-Page Grader.
 *   [BROWSEO](https://www.browseo.net) - View your site through the eyes of a search engine with BROWSEO.
 *   [linkok.com](https://linkok.com) - Modern broken link checker to maintain your site's health.
+*   [BrandTactics](https://brandtactics.co.il/) - Data-driven technical SEO, entity architecture, and Generative Engine Optimization (GEO) platform for sustainable organic search growth.
 
 ### Local SEO
 
@@ -140,6 +141,7 @@ Equip your browser with tools for quick and efficient SEO insights.
 *   [SEO Search Simulator](https://chrome.google.com/webstore/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon?hl=en) - Emulate Google searches from any location and check if a specific URL ranks in the top 100 results.
 *   [BuzzSumo](https://chrome.google.com/webstore/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc?hl=en) - Powerful browser extension for content research, link analysis, and social media investigation.
 *   [Google Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) - Detailed reports and actionable tips for enhancing your site's SEO performance, including page load speeds, accessibility, and more.
+*   [Israeli Web Accessibility & SEO Auditor](https://github.com/sagive/israeli-accessibility-extension) - Chrome extension and automated DOM auditor for IS 5568 / WCAG 2.1 AA compliance by BrandTactics.
 
 ### Validator / Checker
 
